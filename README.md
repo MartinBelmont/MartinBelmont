@@ -1,15 +1,15 @@
-### <'¡Bienvenidos! Soy Martín y trabajo como Front-End Developer'/> 👋
+# <'¡Bienvenidos! Soy Martín y trabajo como Front-End Developer'/> 👋
 
 
 Soy un Desarrollador Front-End y Diseñador Gráfico que le encanta tanto trabajar en web como diseñar. Me defino como una persona que busca afrontar desafíos de forma creativa. Siempre buscando la forma de adaptarme y aprender de los trabajos que se me presentan para obtener buenos resultados en el menor tiempo posible. :computer:
 
-#### Actualmente estoy :bamboo:
+### Actualmente estoy :bamboo:
 
 - 🌱 Estudiando **React.js**
 - :blossom: Poniéndole más diseño a mi vida
 - :books: Leyendo algún libro de fantasía en mi tiempo libre
 
-#### Mis Habilidades :sunglasses:
+### Mis Habilidades :sunglasses:
 
 - <'HTML'/>
 - <'CSS'/>
@@ -20,7 +20,7 @@ Soy un Desarrollador Front-End y Diseñador Gráfico que le encanta tanto trabaj
 - <'SCRUM'/>
 - <'React.js'/>
 
-#### Podes contactarme en :milky_way:
+### Podes contactarme en :milky_way:
 
 - LinkedIn: [https://www.linkedin.com/in/martin-belizan/](https://www.linkedin.com/in/martin-belizan/)
 - Behance: [https://www.behance.net/martinbelizan](https://www.behance.net/martinbelizan)
