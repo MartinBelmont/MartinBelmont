@@ -1,16 +1,28 @@
-### Hi there 👋
+### <'¡Bienvenidos! Soy Martín y trabajo como Front-End Developer'/> 👋
 
-<!--
-**MartinBelmont/MartinBelmont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy un Desarrollador Front-End y Diseñador Gráfico que le encanta tanto trabajar en web como diseñar. Me defino como una persona que busca afrontar desafíos de forma creativa. Siempre buscando la forma de adaptarme y aprender de los trabajos que se me presentan para obtener buenos resultados en el menor tiempo posible. :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Actualmente estoy :bamboo:
+
+- 🌱 Estudiando **React.js**
+- :blossom: Poniéndole más diseño a mi vida
+- :books: Leyendo algún libro de fantasía en mi tiempo libre
+
+#### Mis Habilidades :sunglasses:
+
+- <'HTML'/>
+- <'CSS'/>
+- <'JavaScript'/>
+- <'SASS'/>
+- <'Jquery'/>
+- <'Bootstrap'/>
+- <'SCRUM'/>
+- <'React.js'/>
+
+#### Podes contactarme en :milky_way:
+
+- LinkedIn: [https://www.linkedin.com/in/martin-belizan/](https://www.linkedin.com/in/martin-belizan/)
+- Behance: [https://www.behance.net/martinbelizan](https://www.behance.net/martinbelizan)
+- E-mail: [martinbelizan@gmail.com](martinbelizan@gmail.com)
+
