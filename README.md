@@ -15,7 +15,6 @@ Soy un Desarrollador Front-End y Diseñador Gráfico que le encanta tanto trabaj
 - <'CSS'/>
 - <'SASS'/>
 - <'JavaScript'/>
-- <'SASS'/>
 - <'Jquery'/>
 - <'Bootstrap'/>
 - <'SCRUM'/>
