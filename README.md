@@ -16,9 +16,11 @@ Soy un Desarrollador Front-End y Diseñador Gráfico que le encanta tanto trabaj
 - <'SASS'/>
 - <'JavaScript'/>
 - <'Jquery'/>
+- <'AJAX'/>
 - <'Bootstrap'/>
 - <'SCRUM'/>
 - <'React.js'/>
+- <'Firebase'/>
 
 ### Podes contactarme en :milky_way:
 
