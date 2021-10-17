@@ -20,7 +20,7 @@ Soy un Desarrollador Front-End y Diseñador Gráfico que le encanta tanto trabaj
 - <'Bootstrap'/>
 - <'SCRUM'/>
 - <'React.js'/>
-- <'Firebase'/>
+- <'Firebase'/> 
 
 ### Podes contactarme en :milky_way:
 
