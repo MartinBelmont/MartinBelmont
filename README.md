@@ -5,7 +5,7 @@ Soy un Desarrollador Front-End y Diseñador Gráfico que le encanta tanto trabaj
 
 ### Actualmente estoy :bamboo:
 
-- 🌱 Estudiando **React.js**
+- 🌱 Trabajando en **Mercado Libre**
 - :blossom: Poniéndole más diseño a mi vida
 - :books: Leyendo algún libro de fantasía en mi tiempo libre
 
